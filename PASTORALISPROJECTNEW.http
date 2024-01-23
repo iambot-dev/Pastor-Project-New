@@ -1,0 +1,6 @@
+@PASTORALISPROJECTNEW_HostAddress = http://localhost:5027
+
+GET {{PASTORALISPROJECTNEW_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
